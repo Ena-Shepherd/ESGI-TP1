@@ -8,3 +8,10 @@
 **Execution**
 - Open a terminal
 -> `./exo1`
+
+**Dependencies**
+- GNU Make
+- GCC Compiler
+
+If you're on Windows and don't have the dependencies,
+use `Chocolatey` Packet manager.
