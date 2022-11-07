@@ -14,4 +14,4 @@
 - GCC Compiler
 
 If you're on Windows and don't have the dependencies,
-`choco install gnuwin32-coreutils.portable` with `Chocolatey`.
+`choco install gnuwin32-coreutils.install` with `Chocolatey`.
