@@ -14,4 +14,4 @@
 - GCC Compiler
 
 If you're on Windows and don't have the dependencies,
-use `Chocolatey` Packet manager.
+`choco install coreutils` with `Chocolatey`.
