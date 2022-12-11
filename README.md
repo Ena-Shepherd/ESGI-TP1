@@ -1,17 +1,16 @@
-**--- ESGI TP1 C ---**
+# ESGI-TP1
 
-**How to build :**
-- Open a terminal
-- Via `MAKEFILE` using rule `make` to build all exercises in one sitting.
-- Individually with this pattern : `make exo1` 
-
-**Execution**
-- Open a terminal
--> `./exo1`
-
-**Dependencies**
+## Dependencies
 - GNU Make
-- GCC Compiler
 
-If you're on Windows and don't have the dependencies,
-`choco install gnuwin32-coreutils.install` with `Chocolatey`.
+> Windows GNU troubleshoot :<br/>
+> - Install `Chocolatey` Packet manager <br/>
+> https://chocolatey.org/install <br/>
+> - `choco install gnuwin32-coreutils.install`
+
+## Build
+> Open a terminal <br/>
+
+- Use `make` to build all exercises in one sitting, or individually : `make exo1` <br/>
+- `./exo1`
+
